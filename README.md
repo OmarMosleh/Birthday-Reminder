@@ -5,10 +5,8 @@ in this mini project we used  the useState hook and the props.
 
 ## technologies
 React,CSS
-# Live preview
-https://omarmosleh.github.io/Birthday-Reminder/ 
 ## Live preview
-https://omarmosleh.github.io/my-app/ 
+https://omarmosleh.github.io/Birthday-Reminder/ 
 ## Design
 
 
