@@ -6,8 +6,8 @@ in this mini project we used  the useState hook and the props.
 # technologies
 React,CSS
 # Live preview
-https://omarmosleh.github.io/my-app/ 
+https://omarmosleh.github.io/Birthday-Reminder/ 
 # Design
 
-![Design preview for the laptop](./images/Screenshot%20one.png)
-![Design preview for the laptop](./images/Screenshot%20two.png)
+![Design preview for the laptop](./images/ScreenshotOne.png)
+![Design preview for the laptop](./images/ScreenshotTwo.png)
